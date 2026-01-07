@@ -1,4 +1,4 @@
-# 🧾 Calculette LTD Mirror Park - Employés
+# 🧾 Calculette LTD Mirror Park - RP slash slash :
 
 Cette calculette est un outil interne destiné aux employés du **LTD** afin de faciliter la prise de commandes et le calcul des factures.
 
